@@ -65,7 +65,7 @@ function App() {
         <div className=" text-white flex justify-center font-silkscreen text-7xl">
           Hi, Peter Parker
         </div>
-        <div div className=" text-white flex justify-center font-silkscreen text-3xl">
+        <div className=" text-white flex justify-center font-silkscreen text-3xl">
           {currentDate}
         </div>
         <div className="flex flex-row justify-center items-end pt-32">
