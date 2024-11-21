@@ -10,7 +10,7 @@ This is a simple web homepage featuring:
 - Provides a **search form** to search various search engines like Google, Bing, and DuckDuckGo.
 
 ## Demo
-[Insert link to your demo, if you have deployed it]
+https://pacasiano.github.io/web-homepage/
 
 ## Technologies Used
 - **React.js**: A JavaScript library for building user interfaces.
